@@ -24,12 +24,8 @@ fulfillment                                                        <br>
 ├───repository               ..................... repository<br>
 └───service                  ..................... service<br>
 
+
 ## 📚ref
 
-
-## ⚙setting
-### npm run dev
-
-## TODO
-### eslint + prettier 설정
-### vueRouter 설정 ( 최대한 빨리 해야함)
+##  DB 구조
+![Table Analysis](https://github.com/user-attachments/assets/bb921945-bd68-41ab-b9e0-5d0623dfe467)
