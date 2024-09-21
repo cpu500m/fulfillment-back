@@ -18,7 +18,7 @@ import lombok.RequiredArgsConstructor;
 /**
  * @author : paulkim
  * @description :
- * @packageName : paul.algorithmboard.entity
+ * @packageName : paul.fulfillment.entity
  * @fileName : InspectionProduct
  * @date : 2024-09-21
  */
