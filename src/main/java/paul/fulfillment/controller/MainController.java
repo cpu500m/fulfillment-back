@@ -1,4 +1,4 @@
-package paul.algorithmboard.controller;
+package paul.fulfillment.controller;
 
 import lombok.AllArgsConstructor;
 import lombok.extern.slf4j.Slf4j;

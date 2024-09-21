@@ -1,4 +1,5 @@
-package paul.algorithmboard.entity;
+package paul.fulfillment.entity;
+
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
