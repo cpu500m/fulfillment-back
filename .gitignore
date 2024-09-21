@@ -37,4 +37,4 @@ out/
 .vscode/
 
 ### secure ###
-/application-db.yml
+application-db.yml
